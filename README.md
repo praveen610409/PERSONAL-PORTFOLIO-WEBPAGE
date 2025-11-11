@@ -1,27 +1,125 @@
-# PERSONAL-PORTFOLIO-WEBPAGE
+# 👋 Praveen Singh | Personal Portfolio Webpage
 
-*COMPANY: CODTECH IT SOLUTIONS
+![Portfolio Screenshot](Image/Home.png)
 
-*NAME: PRAVEEN SINGH
+Welcome to my **Personal Portfolio Website**!
+This project highlights my skills, projects, and contact information as a **Full-Stack Web Developer** and **final-year MCA student**.
 
-*INTERN ID: CT08DL1443
+---
 
-*DOMAIN: FRONT END DEVELOPMENT
+## 🔗 Live Demo
+[View Portfolio](https://github.com/praveen610409/PERSONAL-PORTFOLIO-WEBPAGE.git)
 
-*DURATION: 8 WEEKS
+---
 
-*MENTOR: NEELA SANTOSH
+## 🖥️ Project Overview
+This is a **responsive personal portfolio website** built using:
 
-*DESCRIPTION: 
-A Personal Portfolio Webpage is a digital space where individuals can showcase their skills, work, and personality. It's like an online resume, but much more interactive and creative. Whether you're a web developer, graphic designer, photographer, writer, or job seeker in any field, a portfolio website helps you present your talents and leave a strong impression.
+- HTML5 & CSS3
+- Bootstrap 5
+- JavaScript
+- AOS (Animate On Scroll)
+- Git & GitHub
 
-The main goal of a portfolio webpage is to highlight who you are and what you can do. It typically includes sections like an "About Me" page, a resume or CV, a gallery of projects or work samples, and a contact form. Many also feature blogs, testimonials, or even downloadable files. The design and layout are usually tailored to reflect the creator’s personal style or professional brand.
+The website includes:
 
-Having your own portfolio site gives you more control over how you're seen online. Unlike social media or job platforms, your webpage is fully customizable and dedicated only to you. You can choose the design, content, and structure to best represent your experience and goals.
+- **About Me** – Introduction, profile image, career goals, and contact info.
+- **Skills** – Programming languages, frameworks, and tools.
+- **Projects** – Showcase of personal and professional projects with GitHub links.
+- **Contact** – Reach out via email or social media links.
 
-A well-designed portfolio also makes it easier for potential employers, clients, or collaborators to find and connect with you. By including links to your LinkedIn, GitHub, Behance, or other platforms, it becomes a central hub for your online presence.
+---
 
-In today’s digital world, a personal portfolio webpage is more than just a nice-to-have—it's a powerful tool for standing out and telling your story. Whether you’re applying for jobs, looking for freelance work, or simply want to document your journey, a portfolio site helps you share your work with the world in a professional and polished way.
+## 🎨 Features
 
-#OUTPUT:
-![Image](https://github.com/user-attachments/assets/9622430c-0d74-4ad5-9213-7b723df81e9e)
+- Dark/Light mode toggle 🌙
+- Smooth scrolling navigation
+- Fully responsive design (mobile, tablet, desktop)
+- Interactive project cards with GitHub links
+- Contact form with validations
+
+---
+
+## 🛠️ Skills
+
+### Languages & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-95%25-orange)
+![CSS3](https://img.shields.io/badge/CSS3-95%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow)
+![ReactJS](https://img.shields.io/badge/ReactJS-85%25-blue)
+![Python](https://img.shields.io/badge/Python-80%25-blue)
+
+### Tools & Technologies
+![Bootstrap](https://img.shields.io/badge/Bootstrap-90%25-purple)
+![Git](https://img.shields.io/badge/Git-85%25-red)
+![Firebase](https://img.shields.io/badge/Firebase-75%25-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-80%25-green)
+![MySQL](https://img.shields.io/badge/MySQL-75%25-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-60%25-orange)
+
+---
+
+## 📂 Project Structure
+
+Portfolio/
+│
+├── index.html
+├── CSS/
+│ └── Profile.css
+├── Image/
+│ ├── Praveen.jpeg
+│ ├── My Search.png
+│ ├── Quiz_App.png
+│ ├── tictac1.png
+│ ├── StonePaperScissors.png
+│ ├── Calculator.png
+│ ├── AmazonClone.png
+│ ├── Image1.png
+│ ├── Home.png
+│ └── ...other project images
+├── README.md
+└── Profile.js
+
+
+
+---
+
+## 💻 Projects Showcase
+
+| Project | Description | Screenshot | GitHub |
+|---------|------------|------------|--------|
+| Google Q&A App | Community-driven Q&A web app | ![Google Q&A](Image/My Search.png) | [GitHub](https://github.com/praveen610409/Google-Q-A-app.git) |
+| Quiz App | Interactive quiz platform | ![Quiz](Image/Quiz_App.png) | [GitHub](https://github.com/praveen610409/Quiz_App_Project.git) |
+| Tic Tac Toe | Classic 2-player game | ![TicTac](Image/tictac1.png) | [GitHub](https://github.com/praveen610409/TIC-TAC-TOC_GAME-HTML_CSS_JS.git) |
+| Stone Paper Scissors | Fun DOM & JS game | ![SPS](Image/StonePaperScissors.png) | [GitHub](https://github.com/praveen610409/STONE-PAPER-SCISSORS-GAME-HTML_CSS_JS.git) |
+| Calculator | Responsive calculator | ![Calc](Image/Calculator.png) | [GitHub](https://github.com/praveen610409/CALCUTATOR-HTML_CSS_JS.git) |
+| Amazon Clone | Front-end Amazon website clone | ![Amazon](Image/AmazonClone.png) | [GitHub](https://github.com/praveen610409/Amazon_Clone_project.git) |
+| Real-Time Duo Chat | Two-user real-time chat app | ![Chat](Image/Image1.png) | [GitHub](https://github.com/praveen610409/RealTime-DuoChat-Application.git) |
+| E-Learning Platform UI | Online learning platform UI | ![E-Learning](Image/Home.png) | [GitHub](https://github.com/praveen610409/E-LEARNING-PLATFORM-UI.git) |
+
+---
+
+## 📞 Contact Me
+
+- **Location:** Dehradun, Uttarakhand, India
+- **Email:** [praveen610409@gmail.com](mailto:praveen610409@gmail.com)
+- **Phone:** 9548191514
+- **GitHub:** [github.com/praveen610409](https://github.com/praveen610409)
+- **LinkedIn / Twitter / Facebook:**
+
+---
+
+## 📝 License
+
+This project is **open-source** and available under the **MIT License**.
+
+---
+
+## 🌟 Follow Me
+
+[![GitHub](https://github.com/praveen610409)
+[![LinkedIn](https://www.linkedin.com/in/praveen-singh-244984344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+✨ Made with ❤️ by **Praveen Singh**
