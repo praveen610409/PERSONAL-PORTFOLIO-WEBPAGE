@@ -24,6 +24,10 @@ This is a **responsive personal portfolio website** built using:
 The website includes:
 
 - **About Me** – Introduction, profile image, career goals, and contact info.
+
+ #### My Resume
+📄 [Download My Resume](./Praveen_Singh.pdf)
+
 - **Skills** – Programming languages, frameworks, and tools.
 - **Projects** – Showcase of personal and professional projects with GitHub links.
 - **Contact** – Reach out via email or social media links.
