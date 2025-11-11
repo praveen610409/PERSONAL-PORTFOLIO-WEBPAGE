@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Praveen Singh | Portfolio</title>
+
+        <!-- Bootstrap CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
+        <!-- Bootstrap Icons -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet"/>
+        <!-- AOS Animation -->
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"/>
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="Profile.css"/>
+    </head>
+    <body>
+
+        <!-- Dark Mode Toggle -->
+        <button id="darkToggle" class="btn btn-outline-light position-fixed top-0 end-0 m-3">🌙</button>
+
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm fixed-top">
+        <div class="container">
+            <a class="navbar-brand fw-bold" href="#">Praveen Singh</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                <li class="nav-item"><a class="nav-link" href="#skills">Skills</a></li>
+                <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
+                <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+            </ul>
+            </div>
+        </div>
+        </nav>
+
+        <!-- About Section -->
+        <section id="about" class="py-5 about-bg">
+        <div class="container">
+            <div class="row align-items-center">
+            <div class="col-md-4 text-center mb-4 mb-md-0" data-aos="fade-right">
+                <img src="Image/Praveen.jpeg" alt="Praveen Singh" class="profile-img shadow-lg rounded-circle">
+            </div>
+            <div class="col-md-8" data-aos="fade-left">
+                <div class="card shadow-lg border-0 p-4">
+                <h2 class="section-title mb-3">About Me</h2>
+                <p>👋 Hi, I'm <strong>Praveen Singh</strong> — a passionate <strong>Full-Stack Web Developer</strong> and <strong>final-year MCA student</strong> dedicated to creating dynamic, responsive, and user-focused web applications.</p>
+                <p>I have built projects including a <strong>Google Q&A App</strong>, <strong>Real-Time Chat App</strong>, and several <strong>interactive games</strong>. I focus on clean code, reusable components, and intuitive design.</p>
+                <h4 class="mt-3">🎯 Career Goal</h4>
+                <p>To grow as a <strong>Full-Stack Developer</strong> integrating web development with <strong>AI and Machine Learning</strong> to build scalable, intelligent, and impactful applications.</p>
+                <div class="mt-3">
+                    <span class="badge bg-primary me-2">ReactJS</span>
+                    <span class="badge bg-success me-2">Node.js</span>
+                    <span class="badge bg-warning text-dark me-2">MongoDB</span>
+                    <span class="badge bg-info text-dark me-2">Express.js</span>
+                    <span class="badge bg-secondary me-2">Bootstrap</span>
+                    <span class="badge bg-dark me-2">Git</span>
+                </div>
+                </div>
+            </div>
+            </div>
+        </div>
+        </section>
+
+        <!-- Skills Section -->
+        <section id="skills" class="py-5 bg-light">
+        <div class="container" data-aos="fade-up">
+            <h2 class="section-title text-center mb-5">My Skills</h2>
+            <div class="row g-4">
+            <div class="col-md-4">
+                <h5>HTML / CSS</h5>
+                <div class="progress mb-3">
+                <div class="progress-bar bg-success" style="width:95%">95%</div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <h5>JavaScript</h5>
+                <div class="progress mb-3">
+                <div class="progress-bar bg-warning text-dark" style="width:90%">90%</div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <h5>ReactJS</h5>
+                <div class="progress mb-3">
+                <div class="progress-bar bg-info text-dark" style="width:85%">85%</div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <h5>Python</h5>
+                <div class="progress mb-3">
+                <div class="progress-bar bg-primary" style="width:80%">80%</div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <h5>MySQL</h5>
+                <div class="progress mb-3">
+                <div class="progress-bar bg-danger" style="width:75%">75%</div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <h5>Machine Learning</h5>
+                <div class="progress mb-3">
+                <div class="progress-bar bg-secondary" style="width:60%">60%</div>
+                </div>
+            </div>
+            </div>
+            <div class="text-center mt-4">
+            <span class="badge bg-primary me-2">Bootstrap</span>
+            <span class="badge bg-secondary me-2">Git</span>
+            <span class="badge bg-info me-2">Firebase</span>
+            <span class="badge bg-warning text-dark me-2">Node.js</span>
+            </div>
+        </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="py-5">
+        <div class="container" data-aos="fade-up">
+            <h2 class="section-title text-center mb-5">My Projects</h2>
+            <div class="row g-4">
+
+            <!-- Project Cards -->
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm project-card hover-scale">
+                <img src="Image/My Search.png" class="card-img-top" alt="Google Q&A App">
+                <div class="card-body">
+                    <h5 class="card-title">Google Q&A App</h5>
+                    <p class="card-text">Community-driven Q&A web application.</p>
+                </div>
+                <div class="card-footer bg-transparent border-0">
+                    <a href="https://github.com/praveen610409/Google-Q-A-app.git" target="_blank" class="btn btn-sm btn-outline-dark w-100">GitHub</a>
+                </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm project-card hover-scale">
+                <img src="Image/Quiz_App.png" class="card-img-top" alt="Quiz App">
+                <div class="card-body">
+                    <h5 class="card-title">Quiz App Project</h5>
+                    <p class="card-text">Interactive quiz platform with scoring.</p>
+                </div>
+                <div class="card-footer bg-transparent border-0">
+                    <a href="https://github.com/praveen610409/Quiz_App_Project.git" target="_blank" class="btn btn-sm btn-outline-dark w-100">GitHub</a>
+                </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm project-card hover-scale">
+                <img src="Image/tictac1.png" class="card-img-top" alt="Tic Tac Toe Game">
+                <div class="card-body">
+                    <h5 class="card-title">Tic Tac Toe Game</h5>
+                    <p class="card-text">Classic 2-player Tic Tac Toe game.</p>
+                </div>
+                <div class="card-footer bg-transparent border-0">
+                    <a href="https://github.com/praveen610409/TIC-TAC-TOC_GAME-HTML_CSS_JS.git" target="_blank" class="btn btn-sm btn-outline-dark w-100">GitHub</a>
+                </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm project-card hover-scale">
+                <img src="Image/StonePaperScissors.png" class="card-img-top" alt="Stone Paper Scissors">
+                <div class="card-body">
+                    <h5 class="card-title">Stone Paper Scissors</h5>
+                    <p class="card-text">Fun random logic game.</p>
+                </div>
+                <div class="card-footer bg-transparent border-0">
+                    <a href="https://github.com/praveen610409/STONE-PAPER-SCISSORS-GAME-HTML_CSS_JS.git" target="_blank" class="btn btn-sm btn-outline-dark w-100">GitHub</a>
+                </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm project-card hover-scale">
+                <img src="Image/calculator.png" class="card-img-top" alt="Calculator">
+                <div class="card-body">
+                    <h5 class="card-title">Calculator</h5>
+                    <p class="card-text">Responsive calculator with basic arithmetic.</p>
+                </div>
+                <div class="card-footer bg-transparent border-0">
+                    <a href="https://github.com/praveen610409/CALCUTATOR-HTML_CSS_JS.git" target="_blank" class="btn btn-sm btn-outline-dark w-100">GitHub</a>
+                </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm project-card hover-scale">
+                <img src="Image/amazonclone.png" class="card-img-top" alt="Amazon Clone">
+                <div class="card-body">
+                    <h5 class="card-title">Amazon Clone</h5>
+                    <p class="card-text">Front-end Amazon clone website.</p>
+                </div>
+                <div class="card-footer bg-transparent border-0">
+                    <a href="https://github.com/praveen610409/Amazon_Clone_project.git" target="_blank" class="btn btn-sm btn-outline-dark w-100">GitHub</a>
+                </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm project-card hover-scale">
+                <img src="Image/Image1.png" class="card-img-top" alt="RealTime-DuoChat">
+                <div class="card-body">
+                    <h5 class="card-title">RealTime-DuoChat</h5>
+                    <p class="card-text">Two-user real-time chat app.</p>
+                </div>
+                <div class="card-footer bg-transparent border-0">
+                    <a href="https://github.com/praveen610409/RealTime-DuoChat-Application.git" target="_blank" class="btn btn-sm btn-outline-dark w-100">GitHub</a>
+                </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm project-card hover-scale">
+                <img src="Image/Home.png" class="card-img-top" alt="E-Learning UI">
+                <div class="card-body">
+                    <h5 class="card-title">E-Learning Platform UI</h5>
+                    <p class="card-text">Beautiful UI for online learning platform.</p>
+                </div>
+                <div class="card-footer bg-transparent border-0">
+                    <a href="#" target="_blank" class="btn btn-sm btn-outline-dark w-100">GitHub</a>
+                </div>
+                </div>
+            </div>
+
+            </div>
+        </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="py-5 bg-light">
+        <div class="container">
+            <h2 class="section-title text-center mb-5">Contact Me</h2>
+            <div class="row">
+            <div class="col-md-6">
+                <form id="contact-form" class="p-4 shadow-sm rounded">
+                <div class="mb-3">
+                    <label for="name" class="form-label">Name</label>
+                    <input type="text" class="form-control" id="name" required>
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="email" required>
+                </div>
+                <div class="mb-3">
+                    <label for="message" class="form-label">Message</label>
+                    <textarea class="form-control" id="message" rows="4" required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">Send Message</button>
+                </form>
+            </div>
+            <div class="col-md-6">
+                <h4>Get In Touch</h4>
+                <ul class="list-unstyled mt-4">
+                <li>📍 Dehradun, Uttarakhand, India</li>
+                <li>📧 praveen610409@gmail.com</li>
+                <li>📞 9548191514</li>
+                </ul>
+                <h5 class="mt-4">Follow Me:</h5>
+                <div class="d-flex gap-2 mt-2">
+                <a href="#" class="btn btn-outline-dark"><i class="bi bi-facebook"></i></a>
+                <a href="#" class="btn btn-outline-dark"><i class="bi bi-twitter"></i></a>
+                <a href="#" class="btn btn-outline-dark"><i class="bi bi-linkedin"></i></a>
+                <a href="#" class="btn btn-outline-dark"><i class="bi bi-github"></i></a>
+                </div>
+            </div>
+            </div>
+        </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="text-center py-3 bg-dark text-light">
+        <p>&copy; 2025 Praveen. All rights reserved.</p>
+        </footer>
+
+        <!-- JS Files -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+        <script>
+        AOS.init();
+        </script>
+    </body>
+</html>
