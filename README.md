@@ -93,7 +93,7 @@ Portfolio/
 | Tic Tac Toe | Classic 2-player game | ![TicTac](Image/tictac1.png) | [GitHub](https://github.com/praveen610409/TIC-TAC-TOC_GAME-HTML_CSS_JS.git) |
 | Stone Paper Scissors | Fun DOM & JS game | ![SPS](Image/StonePaperScissors.png) | [GitHub](https://github.com/praveen610409/STONE-PAPER-SCISSORS-GAME-HTML_CSS_JS.git) |
 | Calculator | Responsive calculator | ![Calc](Image/calculator.png) | [GitHub](https://github.com/praveen610409/CALCUTATOR-HTML_CSS_JS.git) |
-| Amazon Clone | Front-end Amazon website clone | ![Amazon](Image/amazonclone.png) | [GitHub](https://github.com/praveen610409/Amazon_Clone_project.git) |
+| Amazon Clone | Front-end Amazon website clone | ![Amazon](/Image/amazonclone.png) | [GitHub](https://github.com/praveen610409/Amazon_Clone_project.git) |
 | Real-Time Duo Chat | Two-user real-time chat app | ![Chat](Image/Image1.png) | [GitHub](https://github.com/praveen610409/RealTime-DuoChat-Application.git) |
 | E-Learning Platform UI | Online learning platform UI | ![E-Learning](Image/Home.png) | [GitHub](https://github.com/praveen610409/E-LEARNING-PLATFORM-UI.git) |
 
