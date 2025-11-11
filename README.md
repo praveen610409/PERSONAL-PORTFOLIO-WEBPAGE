@@ -117,8 +117,9 @@ This project is **open-source** and available under the **MIT License**.
 
 ## 🌟 Follow Me
 
-![GitHub](https://github.com/praveen610409)
-![LinkedIn](https://www.linkedin.com/in/praveen-singh-244984344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+## 🌐 Connect With Me
+- [GitHub](https://github.com/praveen610409)
+- [LinkedIn](https://www.linkedin.com/in/praveen-singh-610409/)
 
 ---
 
