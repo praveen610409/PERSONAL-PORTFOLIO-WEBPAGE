@@ -88,12 +88,12 @@ Portfolio/
 
 | Project | Description | Screenshot | GitHub |
 |---------|------------|------------|--------|
-| Google Q&A App | Community-driven Q&A web app | ![Google Q&A](Image/My Search.png) | [GitHub](https://github.com/praveen610409/Google-Q-A-app.git) |
+| Google Q&A App | Community-driven Q&A web app | ![GoogleQ&A](Image/My%20Search.png) | [GitHub](https://github.com/praveen610409/Google-Q-A-app.git) |
 | Quiz App | Interactive quiz platform | ![Quiz](Image/Quiz_App.png) | [GitHub](https://github.com/praveen610409/Quiz_App_Project.git) |
 | Tic Tac Toe | Classic 2-player game | ![TicTac](Image/tictac1.png) | [GitHub](https://github.com/praveen610409/TIC-TAC-TOC_GAME-HTML_CSS_JS.git) |
 | Stone Paper Scissors | Fun DOM & JS game | ![SPS](Image/StonePaperScissors.png) | [GitHub](https://github.com/praveen610409/STONE-PAPER-SCISSORS-GAME-HTML_CSS_JS.git) |
-| Calculator | Responsive calculator | ![Calc](Image/Calculator.png) | [GitHub](https://github.com/praveen610409/CALCUTATOR-HTML_CSS_JS.git) |
-| Amazon Clone | Front-end Amazon website clone | ![Amazon](Image/AmazonClone.png) | [GitHub](https://github.com/praveen610409/Amazon_Clone_project.git) |
+| Calculator | Responsive calculator | ![Calc](Image/calculator.png) | [GitHub](https://github.com/praveen610409/CALCUTATOR-HTML_CSS_JS.git) |
+| Amazon Clone | Front-end Amazon website clone | ![Amazon](Image/amazonclone.png) | [GitHub](https://github.com/praveen610409/Amazon_Clone_project.git) |
 | Real-Time Duo Chat | Two-user real-time chat app | ![Chat](Image/Image1.png) | [GitHub](https://github.com/praveen610409/RealTime-DuoChat-Application.git) |
 | E-Learning Platform UI | Online learning platform UI | ![E-Learning](Image/Home.png) | [GitHub](https://github.com/praveen610409/E-LEARNING-PLATFORM-UI.git) |
 
